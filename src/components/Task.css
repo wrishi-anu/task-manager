@@ -1,0 +1,16 @@
+.task {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.task h6 {
+    margin: 0;
+}
+
+.task button {
+    float: right;
+}
+
+.task input {
+    vertical-align: top;
+}

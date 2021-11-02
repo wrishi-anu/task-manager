@@ -1,5 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 .App {
-  text-align: center;
+  background-color: ddd;
 }
 
 .App-logo {
@@ -35,4 +39,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.list {
+  width: 50%;
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+}
+
+.clear {
+  clear: both;
 }
